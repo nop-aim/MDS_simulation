@@ -1,0 +1,16 @@
+MoM (26/7/2025): 
+1. Nhóm đã tìm hiểu về cấu trúc để hình thành workspace trong ROS, các thành phần cấu tạo, chạy được một số ví dụ trong môi trường ROS
+2. Nhóm đã hoàn thành Lecture 2  - ROS
+3. Nhóm đã có khái niệm về URDF trong ROS. 
+
+To do list:
+- Gặp lại vào ngày 9/8
+- Các bạn học lecture 3 - ROS (TF, RQT, URDF)
+- Kết hợp hướng tới 2  đối tượng chính là universal robot và YUMI ABB robot để làm ví dụ cho lecture 3.
+- Sinh viên cần hiểu việc tạo ra URDF, tích hợp URDF vào ROS, làm sao từ URDF ta biết được động học nghịch thuận của robot, có thể xây dung được phương trình động học của robot từ URDF hay không?
+
+Resource URDF:
+1. yumi: https://github.com/uynitsuj/yumi_realtime/tree/main 
+Path: data/yumi_description/urdf
+2. universal robot: https://github.com/Daniella1/urdf_files_dataset?tab=readme-ov-file (chọn phần ros-industrial)
+Lưu ý: cần kiểm tra lại xem loại Universal Robot tại phòng C303 là loại nào để lấy URDF cho đúng. (UR10,UR10e,UR16e,UR3,UR3e,UR5,UR5e)

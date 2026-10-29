@@ -1,0 +1,19 @@
+MoM (19/7/2025): 
+1. Các bạn đang làm quen với môi trường ROS , đã cài đặt và đang testing các command trong môi trường.
+To do list:
+1. Đề xuất nhóm 2 thành viên để thực hiện các việc như sau:
+1.1 Platform:
+- Cùng tìm hiểu và mỗi tuần showcase một số task trên môi trường ROS.
+- Mục tiêu cuối tháng 7 các bạn sẽ showcase được cobot trên GAZEBO/rviz/moveit
+1.2 Đối tượng robot:
+- Xác định 2 đối tượng cobot chính để nghiên cứu chuyên sâu: universal robot và cobot YUMI ABB
+
+- Resource universal robot:
++ https://www.universal-robots.com/developer/communication-protocol/ros-and-ros2-driver/
++ https://github.com/ros-industrial/universal_robot
+
+- Resource YUMI:
++ https://github.com/BerkeleyAutomation/yumipy
++ https://berkeleyautomation.github.io/yumipy/
+
+1.3 Tìm hiểu redundant robot trên Matlab
